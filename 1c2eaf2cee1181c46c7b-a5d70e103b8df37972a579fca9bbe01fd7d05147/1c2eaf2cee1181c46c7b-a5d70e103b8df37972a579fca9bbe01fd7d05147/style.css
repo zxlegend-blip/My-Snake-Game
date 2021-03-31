@@ -1,0 +1,26 @@
+
+
+#game-header {
+    text-align: center;
+    color: darkslateblue;
+}
+#game-area {
+    border: 2px solid rgba(6, 0, 128, 0.5);
+    margin-left: 35%;
+    margin-right: 35%;
+    display: inline-block;
+}
+
+#instructions{
+    margin-left: 35%;
+    margin-right: 35%;
+    text-align: center;
+}
+
+button {
+    background-color: greenyellow;
+    border: double;
+    margin-left: 35%;
+    margin-right: 35%;
+    width: 30%;
+}
